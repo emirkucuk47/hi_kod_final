@@ -1,2 +1,2 @@
 # hi_kod_final
-This repo has opened for the final project of "Kodluyoruz Hi Kod 2.0 Mobile App Development Program". 
+This repo has opened for the final project of "Kodluyoruz Hi Kod 2.0 Mobile App Development Program". It's purpose is to show the users the weather condition of their current location and yet it can not achieve this because it contains a small problem. I assume the codes are properly working but it has still stuck at getting the location of the user. I tried to fix it and stumbled upon something about that it was working on iOS emulator but not on Android emulator but still could not manage to fix it. 
